@@ -15,8 +15,7 @@
 - ⚡ Fun fact **I think I have consistency about programing**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-width="40" /></a>
+<p align="left"></a>
 <a href="https://instagram.com/i_am_sa30_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_sa30_" height="30" width="40" /></a>
 </p>
 
