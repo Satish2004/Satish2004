@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Everyone+;Welcome+to+;Satish+world;I+am+a+Full+stack+website+Developer+)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm Satish Chandra</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
