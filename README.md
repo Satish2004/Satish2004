@@ -1,4 +1,4 @@
-
+hey dude....
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hy+developers%F0%9F%91%8B;Welcome+to++S+A+T+I+S+H+-+W+O++R++L+D%F0%9F%8C%8E;I+am+a+Web+developer)](https://git.io/typing-svg)
 
 
