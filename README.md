@@ -5,7 +5,7 @@
 
 
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px><h1 align="center">Hi 👋, I'm Satish Chandra</h1>
-<h3 align="center">A passionate web develope</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71111C2&random=false&width=435&lines=%F0%9F%8C%88Welcome+;+I+am+Satish+Chandra;A+Web+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish2004&label=Profile%20views&color=0e75b6&style=flat" alt="satish2004" /> </p>
  <img align ="center" alt ="coding" width="900" controls autoplay src="https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif" 
