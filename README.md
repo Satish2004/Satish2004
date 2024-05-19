@@ -5,9 +5,10 @@
 
 
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px><h1 align="center">Hi 👋, I'm Satish Chandra</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web develope</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish2004&label=Profile%20views&color=0e75b6&style=flat" alt="satish2004" /> </p>
+ <img align ="right" alt ="coding" width="400" src="https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif" 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satish2004" alt="satish2004" /></a> </p>
 
