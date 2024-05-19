@@ -40,3 +40,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish2004&" alt="satish2004" /></p>
 
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg
+<img align ="center" alt ="coding" width="900" controls autoplay src="https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif](https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg" 
