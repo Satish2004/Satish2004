@@ -9,7 +9,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish2004&label=Profile%20views&color=0e75b6&style=flat" alt="satish2004" /> </p>
- <img align ="center" alt ="coding" width="900" controls autoplay src="[https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif](https://img1.wallspic.com/previews/3/1/5/5/1/115513/115513-pc_game-demon-tokyo_ghoul-space-anime-x750.jpg)" 
+ <img align ="center" alt ="coding" width="900" controls autoplay src="https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif](https://img1.wallspic.com/previews/3/1/5/5/1/115513/115513-pc_game-demon-tokyo_ghoul-space-anime-x750.jpg)](https://wallspic.com/image/115513-pc_game-demon-tokyo_ghoul-space-anime" 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satish2004" alt="satish2004" /></a> </p>
 
