@@ -5,7 +5,7 @@
 
 <br/>
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello+everyone;+Welcome+to+my+GitHub+account!;I+am+Satish+Chandra;A++passionate+full-stack+web+developer.;A+Music+Composer;And+UI%2FUX+designer" alt="Typing SVG" /></a> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hello+everyone;+Welcome+to+my+GitHub+account!;I+am+Satish+Chandra;A++passionate+full-stack+web+developer;A+UI%2FUX+Designer;A+Mixing+Master" alt="Typing SVG" /></a> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 
 
