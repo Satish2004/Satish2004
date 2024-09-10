@@ -42,7 +42,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=satish2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satish2004&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satish2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp](https://payload.cargocollective.com/1/3/125982/11115286/superman-animated-gif.gif)" width="20%" align="right">
+<img src="https://payload.cargocollective.com/1/3/125982/11115286/superman-animated-gif.gif" width="20%" align="right">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=satish2004&theme=synthwave&no-frame=true&no-bg=false&margin-w=4)
