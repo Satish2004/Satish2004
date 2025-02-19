@@ -39,13 +39,13 @@
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-  ![](https://github-contributor-stats.vercel.app/api?username=satish2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
 
 
 
-
+  ![](https://github-contributor-stats.vercel.app/api?username=satish2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
