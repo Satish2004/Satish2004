@@ -1,4 +1,9 @@
+<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
 
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish2004&label=Profile%20views&color=0e75b6&style=flat" alt="satish2004" /> </p>
 
 
@@ -36,14 +41,6 @@
 >
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <a>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
-</p>
-
-
 
   ![](https://github-contributor-stats.vercel.app/api?username=satish2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
