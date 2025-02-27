@@ -1,12 +1,12 @@
 
    <img height="70" width="70" align = "left" src="https://pngimg.com/uploads/birds/birds_PNG108.png">
    <img height="70" width="70" align = "right"   transform: rotate(180deg) src="https://pngimg.com/uploads/birds/birds_PNG108.png">
-<p align="center"  display="flex" >
+<!-- <p align="center"  display="flex" >
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
      
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
-</p>
+  <!-- <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png"> -->
+<!-- </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish2004&label=Profile%20views&color=0e75b6&style=flat" alt="satish2004" /> </p>
 
 
