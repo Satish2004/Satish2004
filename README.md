@@ -26,7 +26,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_am_sa30_?igsh=bXAyNTR6aDN4ZzFq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satish-chandra-9844b5250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://x.com/i_am_sa30_?t=NHpe5iacqjMxLb2nvbsufA&s=08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/i_am_sa30_?t=NHpe5iacqjMxLb2nvbsufA&s=08) 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN5ZjBpZXJ3ZGZ5NzE1eGI0cXkwZHU1OGw5bzgyOWh3Z2VtMWJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.webp" width="30%" align="left">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN5ZjBpZXJ3ZGZ5NzE1eGI0cXkwZHU1OGw5bzgyOWh3Z2VtMWJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.webp" width="10%" align="left">
 <p align="left">
 
   
