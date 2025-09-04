@@ -2,7 +2,7 @@
 
 <p align="center"  display="flex" >
   <a>
-   <img height="180" width="160" src="">
+   <img height="180" width="160" src="https://education.oracle.com/file/general/Oracle_University_Generic_Badge.png">
      
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png"> 
 </p> 
