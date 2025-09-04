@@ -2,7 +2,7 @@
 
 <p align="center"  display="flex" >
   <a>
-   <img height="180" width="160" src="![ODBCS25CP](https://github.com/user-attachments/assets/63f2afc6-f627-4e91-80de-4c54c9cb1072)
+   <img height="180" width="160" src="https://github.com/user-attachments/assets/63f2afc6-f627-4e91-80de-4c54c9cb1072
 ">
      
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png"> 
