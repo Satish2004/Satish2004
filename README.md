@@ -2,9 +2,9 @@
 
 <p align="center"  display="flex" >
   <a>
-   <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/08de327f-46ad-44cb-ad5c-8f8bed3a98c2" />
+   <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/08de327f-46ad-44cb-ad5c-8f8bed3a98c2" />
      
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png"> 
+ 
 </p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish2004&label=Profile%20views&color=0e75b6&style=flat" alt="satish2004" /> </p>
 
