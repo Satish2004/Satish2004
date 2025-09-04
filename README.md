@@ -1,7 +1,7 @@
 
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="#">
+  <a href="https://www.linkedin.com/posts/satish-chandra-9844b5250_oracle-cloud-database-services-2025-certified-activity-7369362353122881536-pi6R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4CkjQBEsF-F2mRGAjAZ1AXq0w24kT6Cms">
     <img 
       width="490" 
       height="490" 
