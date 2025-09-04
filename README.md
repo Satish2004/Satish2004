@@ -2,7 +2,7 @@
 
 <p align="center"  display="flex" >
   <a>
-   <img height="180" width="160" src="https://education.oracle.com/file/general/Oracle_University_Generic_Badge.png">
+   <img height="180" width="160" src="https://education.oracle.com/file/general/Oracle_University_Generic_Badge.png](https://in.images.search.yahoo.com/yhs/search;_ylt=AwrKGKpTmLlogeYMwgznHgx.;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=oracle+Cloud+Database+Services+2025+Professional+%281Z0-1093-25%29+badge+png+download+2025&type=251_pc.typedin.smse_130464&hsimp=yhs-imageadvan_switch&hspart=imageadvan&ei=UTF-8&fr=yhs-imageadvan-imageadvan_switch#id=0&iurl=https%3A%2F%2Feducation.oracle.com%2Ffile%2Fgeneral%2FOracle_Professional_Badge_final.png&action=click">
      
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png"> 
 </p> 
