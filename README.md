@@ -2,7 +2,7 @@
 
 <p align="center"  display="flex" >
   <a>
-   <img height="180" width="160" src="[https://github.com/user-attachments/assets/63f2afc6-f627-4e91-80de-4c54c9cb1072](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7011916&trackId=ODBCS25CP&key=38dd0f30dffe14f04fdfe31f0c79ce2cb7b5678b](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7585C43E4D31C94F2EAFB7B9609944D611884C2906106DA209F9A8060D84FB58)
+   <img height="180" width="160" src="[https://github.com/user-attachments/assets/63f2afc6-f627-4e91-80de-4c54c9cb1072](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7011916&trackId=ODBCS25CP&key=38dd0f30dffe14f04fdfe31f0c79ce2cb7b5678b](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7585C43E4D31C94F2EAFB7B9609944D611884C2906106DA209F9A8060D84FB58)](https://github.com/Rahwik/Rahwik/blob/main/Badges/oci1.png?raw=true)
 ">
      
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png"> 
